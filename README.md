@@ -34,10 +34,10 @@ Click [Reset] to reset the form as per the step-2.
 
 
 # Benefits of using JsonPowerDB::
-*minimum development cost
-*serverless support
-*maximise data processing performance 
-*minimum time to market 
+* minimum development cost
+* serverless support
+* maximise data processing performance 
+* minimum time to market 
 * minimize total cost of onwership
 * high availablility 
 * Pluggable API framework for easy intergration into projects
