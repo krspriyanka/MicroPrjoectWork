@@ -33,7 +33,7 @@ Click on [Update] button to update the data in the database and go to step-2.
 Click [Reset] to reset the form as per the step-2.
 
 
-Benefits of using JsonPowerDB::
+# Benefits of using JsonPowerDB::
 *minimum development cost
 *serverless support
 *maximise data processing performance 
@@ -44,6 +44,6 @@ Benefits of using JsonPowerDB::
 
 
 
-Release History : v0.3.2.20220829.2828 beta
+# Release History : v0.3.2.20220829.2828 beta
 
 
